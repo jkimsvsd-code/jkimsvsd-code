@@ -29,12 +29,12 @@ Welcome to Kim's playground with miscellaneous scraps of interest.
 
 
 ## Development
-- PHP
-<!--
 - Python
+<!--
 - JavaScript
 -->
 - SQL
+- NginX
 
 <!--
 ## Security
@@ -52,7 +52,7 @@ Welcome to Kim's playground with miscellaneous scraps of interest.
 ## Featured Projects
 
 ### Starter Projects
-- Mini Server Operation
+- project-apprentice-01~13
 
 <!--
 ### Monument1
